@@ -1,5 +1,6 @@
 #Algoritmo que lea 10 números y determine cuántos números fueron positivos , cuántos negativos y cuantos fueron cero.
 #Vamos a definir tres contadores ; uno para los positivos , uno para los negativos y finalmente otro para los ceros.
+#Ejercicio Resuelto
 def count_Positive(NumList):
     Positive_count = 0
     for j in range(Number):
@@ -34,4 +35,3 @@ print("\nEl número total de números positivos es :  ", Positive_cnt)
 print("El número total de números negativos es : ", Negative_cnt)
 print("El número total de zeros es: ",zeroes_cnt)
 # Desarrollado por Pedro Gómez / ID:000396221
-        
